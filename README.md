@@ -1,5 +1,3 @@
-# BIT-Auto-login-script
-
 # How to run this script
 * Download wifi_autologin.py file from this repository
 
